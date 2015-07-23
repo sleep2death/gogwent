@@ -1,0 +1,312 @@
+[
+    {
+        "Id": "1",
+        "Name": "Poor Fucking Infantry",
+        "Image": "poor_fucking_infantry",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "2",
+        "Name": "Poor Fucking Infantry",
+        "Image": "poor_fucking_infantry",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "3",
+        "Name": "Poor Fucking Infantry",
+        "Image": "poor_fucking_infantry",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "4",
+        "Name": "Redanian Foot Soldier",
+        "Image": "redanian_foot_soldier_1",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "melee"
+    },
+    {
+        "Id": "5",
+        "Name": "Redanian Foot Soldier",
+        "Image": "redanian_foot_soldier_2",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "melee"
+    },
+    {
+        "Id": "6",
+        "Name": "Kaedweni Siege Expert",
+        "Image": "kaedweni_siege_expert_1",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "siege",
+        "Ability_A": "morale"
+    },
+    {
+        "Id": "7",
+        "Name": "Kaedweni Siege Expert",
+        "Image": "kaedweni_siege_expert_2",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "siege",
+        "Ability_A": "morale"
+    },
+    {
+        "Id": "8",
+        "Name": "Kaedweni Siege Expert",
+        "Image": "kaedweni_siege_expert_3",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "siege",
+        "Ability_A": "morale"
+    },
+    {
+        "Id": "9",
+        "Name": "Thaler",
+        "Image": "thaler",
+        "Power": "1",
+        "Deck": "northern_realms",
+        "Field": "siege",
+        "Ability_A": "spy"
+    },
+    {
+        "Id": "10",
+        "Name": "Yarpen Zigrin",
+        "Image": "yarpen_zigrin",
+        "Power": "2",
+        "Deck": "northern_realms",
+        "Field": "melee"
+    },
+    {
+        "Id": "11",
+        "Name": "Blue Stripes Commando",
+        "Image": "blue_stripes_commando",
+        "Power": "4",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "12",
+        "Name": "Blue Stripes Commando",
+        "Image": "blue_stripes_commando",
+        "Power": "4",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "13",
+        "Name": "Blue Stripes Commando",
+        "Image": "blue_stripes_commando",
+        "Power": "4",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "14",
+        "Name": "Sigismund Dijkstra",
+        "Image": "sigismund_dijkstra",
+        "Power": "4",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "spy"
+    },
+    {
+        "Id": "15",
+        "Name": "Sabrina Glevissig",
+        "Image": "sabrina_glevissig",
+        "Power": "4",
+        "Deck": "northern_realms",
+        "Field": "range"
+    },
+    {
+        "Id": "16",
+        "Name": "Sheldon Skaggs",
+        "Image": "sheldon_skaggs",
+        "Power": "4",
+        "Deck": "northern_realms",
+        "Field": "range"
+    },
+    {
+        "Id": "17",
+        "Name": "Prince Stennis",
+        "Image": "prince_stennis",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_A": "spy"
+    },
+    {
+        "Id": "18",
+        "Name": "Siegfried of Denesle",
+        "Image": "siegfried_of_denesle",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "melee"
+    },
+    {
+        "Id": "19",
+        "Name": "Ves",
+        "Image": "ves",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "melee"
+    },
+    {
+        "Id": "20",
+        "Name": "Crinfrid Reaver's Dragon Hunter",
+        "Image": "crinfrid_reavers_dragon_hunter",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "range",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "21",
+        "Name": "Crinfrid Reaver's Dragon Hunter",
+        "Image": "crinfrid_reavers_dragon_hunter",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "range",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "22",
+        "Name": "Crinfrid Reaver's Dragon Hunter",
+        "Image": "crinfrid_reavers_dragon_hunter",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "range",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "23",
+        "Name": "Keira Metz",
+        "Image": "keira_metz",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "range"
+    },
+    {
+        "Id": "24",
+        "Name": "Síle de Tansarville",
+        "Image": "sile_de_tansarville",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "range"
+    },
+    {
+        "Id": "25",
+        "Name": "Dun Banner Medic",
+        "Image": "dun_banner_medic",
+        "Power": "5",
+        "Deck": "northern_realms",
+        "Field": "siege",
+        "Ability_A": "medic"
+    },
+    {
+        "Id": "26",
+        "Name": "Dethmold",
+        "Image": "dethmold",
+        "Power": "6",
+        "Deck": "northern_realms",
+        "Field": "range"
+    },
+    {
+        "Id": "27",
+        "Name": "Siege Tower",
+        "Image": "siege_tower",
+        "Power": "6",
+        "Deck": "northern_realms",
+        "Field": "siege"
+    },
+    {
+        "Id": "28",
+        "Name": "Ballista",
+        "Image": "ballista_1",
+        "Power": "6",
+        "Deck": "northern_realms",
+        "Field": "siege"
+    },
+    {
+        "Id": "29",
+        "Name": "Trebuchet",
+        "Image": "trebuchet_1",
+        "Power": "6",
+        "Deck": "northern_realms",
+        "Field": "siege"
+    },
+    {
+        "Id": "30",
+        "Name": "Trebuchet",
+        "Image": "trebuchet_2",
+        "Power": "6",
+        "Deck": "northern_realms",
+        "Field": "siege"
+    },
+    {
+        "Id": "31",
+        "Name": "Catapult",
+        "Image": "catapult",
+        "Power": "8",
+        "Deck": "northern_realms",
+        "Field": "siege",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "32",
+        "Name": "Catapult",
+        "Image": "catapult",
+        "Power": "8",
+        "Deck": "northern_realms",
+        "Field": "siege",
+        "Ability_A": "bond"
+    },
+    {
+        "Id": "33",
+        "Name": "Esterad Thyssen",
+        "Image": "esterad_thyssen",
+        "Power": "10",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_B": "hero"
+    },
+    {
+        "Id": "34",
+        "Name": "John Natalis",
+        "Image": "john_natalis",
+        "Power": "10",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_B": "hero"
+    },
+    {
+        "Id": "35",
+        "Name": "Vernon_Roche",
+        "Image": "vernon_roche",
+        "Power": "10",
+        "Deck": "northern_realms",
+        "Field": "melee",
+        "Ability_B": "hero"
+    },
+    {
+        "Id": "36",
+        "Name": "Philippa Eilhart",
+        "Image": "philippa_eilhart",
+        "Power": "10",
+        "Deck": "northern_realms",
+        "Field": "range",
+        "Ability_B": "hero"
+    }
+]
